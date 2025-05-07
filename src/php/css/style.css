@@ -1,0 +1,52 @@
+*{
+    font-family: "Lora", serif;
+}
+
+.h1-main{
+    font-size: 40px;
+    color: #FF0000;
+    text-align: center;
+}
+
+.h2-descricao-aluno, .h3-lista-hobbies, .h3-lista-interesses{
+    text-align: center;
+    font-family: "Lora", Arial, Helvetica, sans-serif;
+}
+
+.h1-info-aula{
+    color: #095a16;
+    text-align: center;
+    font-family: "Lora";
+}
+
+table, th, td{
+    border: 1px solid;
+    text-align: center;
+    font-family: "Lora";
+} 
+
+a:link{
+    color: #fa0f0f;
+    font-family: "Lora";
+}
+a:hover{
+    font-size: 20px;
+    font-family: "Lora";
+}
+a:visited{
+    color: #095a16;
+    font-family: "Lora";
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    background-color: #095a16;
+    border: 5px #fa0f0f solid;
+    margin: 0 auto;
+    color: #ffff;
+    text-align: justify;
+    letter-spacing: 4px;
+    font-family: "Lora";   
+}

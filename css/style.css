@@ -1,0 +1,50 @@
+*{
+    background-color: rgb(252, 252, 228);
+    font-family: "Lora", serif;
+}
+
+header{
+    text-align: center;
+    margin: 30px;
+    font-size: 25px;
+
+}
+
+nav{
+    color: rgb(228, 47, 153);
+    cursor: pointer;
+    
+}
+
+li{
+    margin: 10px ;
+    list-style: none;
+    text-align: center;
+    font-family: "Oswald";
+}
+
+a:link{
+    color: #e71515;
+    font-family: "Lora";
+}
+a:hover{
+    font-size: 20px;
+    font-family: "Lora";
+}
+a:visited{
+    color: #000000;
+    background-color: #bcd7f5;
+    font-family: "Lora";
+}
+
+.footer{
+    margin-top: 20px;
+    padding: 0.2px;
+    background-color: black;
+}
+
+img{
+    width: 20vh;
+    float: left;
+    margin: 20px 10px;
+}

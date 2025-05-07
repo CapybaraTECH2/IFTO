@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/Aluno/Documents/NetBeansProjects/Pofessores Disciplina/ProfDisc/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Aluno/Documents/NetBeansProjects/Pofessores Disciplina/ProfDisc/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProfDisc 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ProfDisc 1.0-SNAPSHOT API'
+com.mycompany.profdisc
+C:\Users\Aluno\Documents\NetBeansProjects\Pofessores Disciplina\ProfDisc\src\main\java = 1746056078968
+C:\Users\Aluno\Documents\NetBeansProjects\Pofessores Disciplina\ProfDisc\target\reports\apidocs\allclasses-index.html = 1746056280444
+C:\Users\Aluno\Documents\NetBeansProjects\Pofessores Disciplina\ProfDisc\target\reports\apidocs\allpackages-index.html = 1746056280456
+C:\Users\Aluno\Documents\NetBeansProjects\Pofessores Disciplina\ProfDisc\target\reports\apidocs\element-list = 1746056280316
+C:\Users\Aluno\Documents\NetBeansProjects\Pofessores Disciplina\ProfDisc\target\reports\apidocs\help-doc.html = 1746056280577
+C:\Users\Aluno\Documents\NetBeansProjects\Pofessores Disciplina\ProfDisc\target\reports\apidocs\index-all.html = 1746056280522
+C:\Users\Aluno\Documents\NetBeansProjects\Pofessores Disciplina\ProfDisc\target\reports\apidocs\index.html = 1746056280570
+C:\Users\Aluno\Documents\NetBeansProjects\Pofessores Disciplina\ProfDisc\target\reports\apidocs\member-search-index.js = 1746056280502
+C:\Users\Aluno\Documents\NetBeansProjects\Pofessores Disciplina\ProfDisc\target\reports\apidocs\module-search-index.js = 1746056280461
+C:\Users\Aluno\Documents\NetBeansProjects\Pofessores Disciplina\ProfDisc\target\reports\apidocs\overview-tree.html = 1746056280414
+C:\Users\Aluno\Documents\NetBeansProjects\Pofessores Disciplina\ProfDisc\target\reports\apidocs\package-search-index.js = 1746056280462
+C:\Users\Aluno\Documents\NetBeansProjects\Pofessores Disciplina\ProfDisc\target\reports\apidocs\search.html = 1746056280528
+C:\Users\Aluno\Documents\NetBeansProjects\Pofessores Disciplina\ProfDisc\target\reports\apidocs\tag-search-index.js = 1746056280503
+C:\Users\Aluno\Documents\NetBeansProjects\Pofessores Disciplina\ProfDisc\target\reports\apidocs\type-search-index.js = 1746056280500

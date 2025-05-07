@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/Introdução/css/forms.css">
+    <title>Formulários</title>
+</head>
+<body>
+
+    <a href=""></a>
+
+    <form action="">
+        <label for="Nome">Nome: </label>
+        <input type="text" nome="nome" id="Nome" required placeholder="Informe Seu Nome">
+        <br>
+        <br>
+
+        <label for="E-mail">E-mail</label>
+        <input type="email" nome="email" id="E-mail" required placeholder="Informe Seu E-mail">
+        <br>
+        <br>
+
+        <label for="Data">Data</label>
+        <input type="date" nome="data" id="Data" required>
+        <br>
+        <br>
+
+        <label for="Senha">Senha</label>
+        <input type="password" nome="Senha" id="senha" placeholder="Crie Uma Senha" required>
+        <label for="Confirme a Senha">Confirme a Senha</label>
+        <input type="password" nome="Confirme a Senha" id="Confirme a Senha" placeholder="Confirme Sua Senha" required>
+        <br>
+        <br>
+
+        <label for="Telefone">Telefone</label>
+        <input type="number" nome="numero" id="Telefone" required>
+
+        <br>
+        <br>
+
+        <label for="Arquivo">Arquivo</label>
+        <input type="file" nome="arquivo" id="Arquivo">
+        <br>
+        <br>
+
+        <label for="Curso">Curso</label>
+        <select name="curso" id="Curso">
+            <option value="" selected>Selecione um curso</option>
+            <option value="ADS">Análise e Desenvolvimento de Sistemas</option>
+            <option value="Pedagogia">Pedagogia</option>
+            <option value="Agronimia">Agronimia</option>
+        </select>
+        <br>
+        <br>
+
+        <fieldset>
+            <legend>Sexo:</legend>
+            <label for="sexo">Maculino</label>
+            <input type="radio" name="sexo" value="Maculino">
+            <label for="sexo">Feminino</label>
+            <input type="radio" name="sexo" value="Feminino">
+            <label for="sexo">TI</label>
+            <input type="radio" checked name="sexo" value="TI">   
+            </fieldset>
+        <br>
+        <br>
+
+        <fieldset>
+            <legend>Esportes:</legend>
+            <label for="esporte">Futebol</label>
+            <input type="checkbox" checked nome="esporte" id="Futebol">
+            <label for="esporte">Basquete</label>
+            <input type="checkbox" nome="esporte" id="Baquete">
+            <label for="esporte">Vôlei</label>
+            <input type="checkbox" nome="esporte" id="Vôlei">
+            <label for="esporte">Tênis</label>
+            <input type="checkbox" nome="esporte" id="Tênis">
+        </fieldset>
+        <br>
+        <br>
+
+        <input type="submit" value="Enviar">
+    </form>
+
+</body>
+</html>
