@@ -1,0 +1,40 @@
+
+body{
+    font-family: Arial, sans-serif;
+    margin:20px;
+    padding: 0px;
+    display: flex;
+    justify-content: justify;
+    align-items: center;
+    height: 1vh;
+    background-color: #13da3ef0;
+
+}
+h1{
+    text-align:center;
+    margin-top: 30px;
+}  
+.menu{
+    display:flex;
+    flex-direction: column;
+    justify-content: justify; 
+    margin-top: 330px;
+    margin-left: -290px;
+    gap:15px;
+}
+.menu-item{
+    width: 100px;
+    text-align: justify;
+    padding: 100px;
+    background-color: #130505;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-size: 15px;
+    box-shadow: 0 5px 9px #10d33af0;
+    transition: background-color 0.3s, transform 0.3s;
+}
+.menu-item:hover{
+    background-color: #040305;
+}
